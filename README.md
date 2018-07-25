@@ -2,6 +2,8 @@
 
 Towards more useful jsdoc types: `{Object}`, `{Promise}` and `{*}` are unfortunate. Lets not use those.
 
+There's only 1 rule in this plugin: [tick-tock-jsdoc](docs/rules/tick-tock-jsdoc.md).
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
