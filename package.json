@@ -1,11 +1,12 @@
 {
   "name": "eslint-plugin-tick-tock-jsdoc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Towards more useful jsdoc types",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "jsdoc"
   ],
   "author": "Ewan Dennis",
   "main": "lib/index.js",
@@ -23,5 +24,12 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/ewandennis/eslint-plugin-tick-tock-jsdoc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewandennis/eslint-plugin-tick-tock-jsdoc.git"
+  },
+  "license": "Apache-2.0"
 }
