@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tick-tock-jsdoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Towards more useful jsdoc types",
   "keywords": [
     "eslint",
