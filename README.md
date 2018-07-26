@@ -2,7 +2,7 @@
 
 Towards more useful jsdoc types: `{Object}`, `{Promise}` and `{*}` are unfortunate. Lets not use those.
 
-There's only 1 rule in this plugin: [tick-tock-jsdoc](docs/rules/tick-tock-jsdoc.md).
+There's only 1 rule in this plugin: [make-nice](docs/rules/make-nice.md).
 
 ## Installation
 
@@ -38,10 +38,10 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "tick-tock-jsdoc/tick-tock-jsdoc": 2
+        "tick-tock-jsdoc/make-nice": 2
     }
 }
 ```
 
 ## Supported Rules
- - Prohibit use of and provide guidance on `{Object}`, `{Promise}` and `{*}` ([tick-tock-jsdoc](docs/rules/tick-tock-jsdoc.md))
+ - Prohibit use of and provide guidance on `{Object}`, `{Promise}` and `{*}` ([make-nice](docs/rules/make-nice.md))

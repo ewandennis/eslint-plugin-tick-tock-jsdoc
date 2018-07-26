@@ -8,7 +8,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-var rule = require("../../../lib/rules/tick-tock-jsdoc"),  
+var rule = require("../../../lib/rules/make-nice"),  
     RuleTester = require("eslint").RuleTester;
 
 RuleTester.setDefaultConfig({

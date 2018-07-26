@@ -1,4 +1,4 @@
-# Informative JSDoc (tick-tock-jsdoc)
+# Informative JSDoc (make-nice)
 
 JSDoc allows you to specify types for parameters, return values and so on. Unfortunately JSDoc also lets you pretend to write docs by using types like `Object`, `Promise` or even `*`, none of which contribute much in the way of actual documentation. Here's why:
 
@@ -43,3 +43,7 @@ If you aren't using JSDoc, you don't need this.
 ## Further Reading
 
 [Here are all the ways you can specify your types in JSDoc](http://usejsdoc.org/tags-type.html).
+
+[TypeScript](https://www.typescriptlang.org/)
+
+[Flow](https://flow.org/en/)
